@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1409C447-B9EC-45C4-A08D-A8575F3FEECE}</ProjectGuid>
+    <ProjectGuid>{EE190DEF-56DC-47CE-9F07-CDCC65D37EEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LISTA_EXERCICIO_1</RootNamespace>
-    <AssemblyName>LISTA EXERCICIO 1</AssemblyName>
+    <RootNamespace>QUESTAO_01</RootNamespace>
+    <AssemblyName>QUESTAO 01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

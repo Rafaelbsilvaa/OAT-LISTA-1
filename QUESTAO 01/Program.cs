@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace QUESTAO_01
-
 {
     internal class Program
     {
